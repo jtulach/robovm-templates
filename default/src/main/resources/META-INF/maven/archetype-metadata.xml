@@ -29,6 +29,7 @@
         <include>Info.plist.xml</include>
         <include>robovm.xml</include>
         <include>robovm.properties</include>
+        <include>nbactions.xml</include>
       </includes>
     </fileSet>
   </fileSets>
